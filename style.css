@@ -26,15 +26,19 @@ body {
 }
 
 .card {
-  padding: 1em;
+  padding: 1.1em;
   background-color: var(--card-background);
   border: 1px solid var(--border-color);
   border-radius: 20px;
-  max-width: 400px;
+  max-width: 380px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   box-shadow: 8px 8px 0 var(--shadow-color);
+}
+
+.card-image {
+  width: 100%;
 }
 
 .card-image img {
