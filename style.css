@@ -50,10 +50,10 @@ body {
   border-radius: 3px;
   font-weight: 800;
   font-size: 0.8em;
+  margin-bottom: 0.8em;
 }
 
-.badge + [datetime] {
-  margin: 0.75em 0;
+.publish-date {
   font-weight: 600;
   font-size: 0.8em;
 }
