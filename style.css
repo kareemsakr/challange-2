@@ -26,7 +26,7 @@ body {
 }
 
 .card {
-  padding: 1.3em;
+  padding: 1.4em;
   background-color: var(--card-background);
   border: 1px solid var(--border-color);
   border-radius: 20px;
