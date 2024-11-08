@@ -69,18 +69,18 @@ body {
 }
 
 .author {
-  display: flex;
-  align-items: center;
   margin-top: 1.5em;
 }
 
 .author-image {
-  max-width: 2em;
-  margin-right: 0.75em;
+  display: flex;
+  align-items: center;
 }
 
 .author-image img {
   width: 100%;
+  max-width: 2em;
+  margin-right: 0.75em;
 }
 
 .author-name {
