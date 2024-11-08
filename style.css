@@ -67,7 +67,7 @@ body {
 }
 
 .card-description {
-  line-height: 1.25em;
+  line-height: 1.5em;
   color: var(--card-description-color);
   font-weight: 500;
 }
